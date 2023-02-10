@@ -22,6 +22,7 @@ Home to my personal projects, home server provisioning, automation and more...
   <img src="https://flink.apache.org/img/logo/png/50/color_50.png" title="Apache Flink" alt="Apache Flink" width="50" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" title="HackerRank" alt="HackerRank" width="50" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" title="Spring" alt="Spring" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="50" />&nbsp;
 </div>
 
 ### 📊 Repo stats :
