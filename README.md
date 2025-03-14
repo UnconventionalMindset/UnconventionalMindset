@@ -28,7 +28,7 @@ Home to my personal projects, home server provisioning, automation and more...
 </div>
 
 ### 📊 Repo stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UnconventionalMindset&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&border=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=UnconventionalMindset&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&border=DD2727)](https://git.io/streak-stats)
 
 
 
